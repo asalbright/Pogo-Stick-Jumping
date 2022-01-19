@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0"
+   y="0"
+   width="648"
+   height="432"
+   viewBox="0, 0, 648, 432"
+   id="svg719"
+   sodipodi:docname="stutter_jump.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\andre\OneDrive\Desktop\Pogo_Stick_Figures\stutter_jump.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata723">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1797"
+     inkscape:window-height="1106"
+     id="namedview721"
+     showgrid="false"
+     inkscape:zoom="1.8842593"
+     inkscape:cx="209.10074"
+     inkscape:cy="213.61179"
+     inkscape:window-x="361"
+     inkscape:window-y="336"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg719"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs458">
+    <clipPath
+       id="Clip_1">
+      <path
+         d="M317.317,355.031 L343.683,355.031 L343.683,414.239 L317.317,414.239 z M331.5,363.031 L329.5,363.031 L329.5,377.783 L323.981,379.754 C323.016,380.099 323.132,381.5 324.142,381.681 L330.994,382.904 L324.142,384.128 C323.043,384.324 323.043,385.901 324.142,386.097 L330.994,387.32 L324.142,388.544 C323.043,388.741 323.043,390.317 324.142,390.513 L330.994,391.737 L324.142,392.961 C323.144,393.139 323.014,394.518 323.961,394.879 L329.768,397.096 L329.799,406.239 L331.799,406.232 L331.765,396.403 C331.764,395.99 331.508,395.62 331.122,395.472 L328.04,394.296 L336.858,392.721 C337.957,392.525 337.957,390.949 336.858,390.752 L330.006,389.529 L336.858,388.305 C337.957,388.109 337.957,386.532 336.858,386.336 L330.006,385.112 L336.858,383.889 C337.957,383.692 337.957,382.116 336.858,381.92 L328.195,380.373 L330.836,379.43 C331.234,379.288 331.5,378.911 331.5,378.488 L331.5,363.031 z"
+         id="path2" />
+    </clipPath>
+    <filter
+       id="Shadow_2">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur5" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset7" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood9" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite11" />
+    </filter>
+    <clipPath
+       id="Clip_3">
+      <path
+         d="M318.421,231.619 L341.764,231.619 L341.764,378.801 L318.421,378.801 z M334.819,239.619 L325.366,239.619 C324.844,239.619 324.421,242.882 324.421,246.907 L324.421,363.513 C324.421,367.538 324.844,370.801 325.366,370.801 L334.819,370.801 C335.341,370.801 335.764,367.538 335.764,363.513 L335.764,246.907 C335.764,242.882 335.341,239.619 334.819,239.619 z"
+         id="path14" />
+    </clipPath>
+    <filter
+       id="Shadow_4">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur17" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset19" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood21" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite23" />
+    </filter>
+    <linearGradient
+       id="Gradient_1"
+       gradientUnits="userSpaceOnUse"
+       x1="324.421"
+       y1="305.21"
+       x2="335.764"
+       y2="305.21">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop26" />
+      <stop
+         offset="0.05"
+         stop-color="#686868"
+         id="stop28" />
+      <stop
+         offset="0.251"
+         stop-color="#CBCBCB"
+         id="stop30" />
+      <stop
+         offset="0.403"
+         stop-color="#DDDDDD"
+         id="stop32" />
+      <stop
+         offset="0.602"
+         stop-color="#DDDDDD"
+         id="stop34" />
+      <stop
+         offset="0.769"
+         stop-color="#C1C1C1"
+         id="stop36" />
+      <stop
+         offset="0.952"
+         stop-color="#7D7D7D"
+         id="stop38" />
+      <stop
+         offset="1"
+         stop-color="#383838"
+         id="stop40" />
+    </linearGradient>
+    <clipPath
+       id="Clip_5">
+      <path
+         d="M320.79,393.735 L340.394,393.735 L340.394,417.339 L320.79,417.339 z M330.592,401.735 C328.493,401.735 326.791,403.438 326.79,405.537 C326.791,407.637 328.493,409.339 330.592,409.339 C332.692,409.339 334.394,407.637 334.394,405.537 C334.394,403.438 332.692,401.735 330.592,401.735 z"
+         id="path43" />
+    </clipPath>
+    <filter
+       id="Shadow_6">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur46" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset48" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood50" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite52" />
+    </filter>
+    <clipPath
+       id="Clip_7">
+      <path
+         d="M306,236.71 L355,236.71 L355,290.71 L306,290.71 z M345.5,244.71 L315.5,244.71 C313.598,244.71 312,245.805 312,247.266 L312,280.154 C312,281.615 313.598,282.71 315.5,282.71 L345.5,282.71 C347.402,282.71 349,281.615 349,280.154 L349,247.266 C349,245.805 347.402,244.71 345.5,244.71 z"
+         id="path55" />
+    </clipPath>
+    <filter
+       id="Shadow_8">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur58" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset60" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood62" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite64" />
+    </filter>
+    <linearGradient
+       id="Gradient_2"
+       gradientUnits="userSpaceOnUse"
+       x1="312.5"
+       y1="263.71"
+       x2="348.5"
+       y2="263.71">
+      <stop
+         offset="0"
+         stop-color="#686868"
+         id="stop67" />
+      <stop
+         offset="0.153"
+         stop-color="#CBCBCB"
+         id="stop69" />
+      <stop
+         offset="0.501"
+         stop-color="#DDDDDD"
+         id="stop71" />
+      <stop
+         offset="0.851"
+         stop-color="#C1C1C1"
+         id="stop73" />
+      <stop
+         offset="1"
+         stop-color="#7D7D7D"
+         id="stop75" />
+    </linearGradient>
+    <clipPath
+       id="Clip_9">
+      <path
+         d="M39.219,328.989 L64.747,328.989 L64.747,415.839 L39.219,415.839 z M52.983,336.989 L50.983,336.989 L50.983,363.837 L45.658,367.451 C44.975,367.915 45.116,368.96 45.898,369.225 L54.634,372.19 L45.898,375.154 C44.993,375.461 44.993,376.741 45.898,377.048 L54.634,380.012 L45.898,382.976 C44.993,383.283 44.993,384.563 45.898,384.87 L54.634,387.834 L45.898,390.798 C45.13,391.059 44.976,392.079 45.632,392.555 L51.231,396.616 L51.231,407.839 L53.231,407.839 L53.231,396.105 C53.231,395.785 53.077,395.484 52.818,395.296 L48.372,392.071 L58.068,388.781 C58.973,388.474 58.973,387.194 58.068,386.887 L49.332,383.923 L58.068,380.959 C58.973,380.652 58.973,379.372 58.068,379.065 L49.332,376.101 L58.068,373.137 C58.973,372.829 58.973,371.55 58.068,371.242 L48.444,367.977 L52.545,365.195 C52.819,365.008 52.983,364.699 52.983,364.367 L52.983,336.989 z"
+         id="path78" />
+    </clipPath>
+    <filter
+       id="Shadow_10">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur81" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset83" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood85" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite87" />
+    </filter>
+    <clipPath
+       id="Clip_11">
+      <path
+         d="M39.904,217.312 L63.247,217.312 L63.247,364.493 L39.904,364.493 z M56.302,225.312 L46.85,225.312 C46.328,225.312 45.905,228.575 45.904,232.6 L45.905,349.206 C45.905,353.231 46.328,356.493 46.85,356.493 L56.302,356.493 C56.824,356.493 57.247,353.231 57.247,349.206 L57.247,232.6 C57.247,228.575 56.824,225.312 56.302,225.312 z"
+         id="path90" />
+    </clipPath>
+    <filter
+       id="Shadow_12">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur93" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset95" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood97" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite99" />
+    </filter>
+    <linearGradient
+       id="Gradient_3"
+       gradientUnits="userSpaceOnUse"
+       x1="45.905"
+       y1="290.903"
+       x2="57.247"
+       y2="290.903">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop102" />
+      <stop
+         offset="0.05"
+         stop-color="#686868"
+         id="stop104" />
+      <stop
+         offset="0.251"
+         stop-color="#CBCBCB"
+         id="stop106" />
+      <stop
+         offset="0.403"
+         stop-color="#DDDDDD"
+         id="stop108" />
+      <stop
+         offset="0.602"
+         stop-color="#DDDDDD"
+         id="stop110" />
+      <stop
+         offset="0.769"
+         stop-color="#C1C1C1"
+         id="stop112" />
+      <stop
+         offset="0.952"
+         stop-color="#7D7D7D"
+         id="stop114" />
+      <stop
+         offset="1"
+         stop-color="#383838"
+         id="stop116" />
+    </linearGradient>
+    <clipPath
+       id="Clip_13">
+      <path
+         d="M27.483,264.403 L76.483,264.403 L76.483,318.402 L27.483,318.402 z M66.983,272.403 L36.983,272.403 C35.082,272.403 33.483,273.498 33.483,274.958 L33.483,307.847 C33.483,309.307 35.082,310.402 36.983,310.402 L66.983,310.402 C68.885,310.402 70.483,309.307 70.483,307.847 L70.483,274.958 C70.483,273.498 68.885,272.403 66.983,272.403 z"
+         id="path119" />
+    </clipPath>
+    <filter
+       id="Shadow_14">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur122" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset124" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood126" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite128" />
+    </filter>
+    <linearGradient
+       id="Gradient_4"
+       gradientUnits="userSpaceOnUse"
+       x1="33.983"
+       y1="291.403"
+       x2="69.983"
+       y2="291.403">
+      <stop
+         offset="0"
+         stop-color="#686868"
+         id="stop131" />
+      <stop
+         offset="0.153"
+         stop-color="#CBCBCB"
+         id="stop133" />
+      <stop
+         offset="0.501"
+         stop-color="#DDDDDD"
+         id="stop135" />
+      <stop
+         offset="0.851"
+         stop-color="#C1C1C1"
+         id="stop137" />
+      <stop
+         offset="1"
+         stop-color="#7D7D7D"
+         id="stop139" />
+    </linearGradient>
+    <clipPath
+       id="Clip_15">
+      <path
+         d="M42.274,392.735 L61.878,392.735 L61.878,416.339 L42.274,416.339 z M52.076,400.735 C49.976,400.735 48.274,402.438 48.274,404.537 C48.274,406.637 49.976,408.339 52.076,408.339 C54.175,408.339 55.878,406.637 55.878,404.537 C55.878,402.438 54.175,400.735 52.076,400.735 z"
+         id="path142" />
+    </clipPath>
+    <filter
+       id="Shadow_16">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur145" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset147" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood149" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite151" />
+    </filter>
+    <clipPath
+       id="Clip_17">
+      <path
+         d="M140.145,264.143 L165.673,264.143 L165.673,397.384 L140.145,397.384 z M153.909,272.143 L151.909,272.143 L151.909,320.068 L146.378,326.687 C145.984,327.159 146.104,327.871 146.632,328.186 L156.725,334.227 L146.632,340.267 C145.983,340.655 145.983,341.595 146.632,341.983 L156.725,348.023 L146.632,354.063 C145.983,354.451 145.983,355.391 146.632,355.779 L156.725,361.819 L146.632,367.859 C146.116,368.168 145.987,368.859 146.357,369.333 L152.149,376.742 L151.883,389.341 L153.883,389.384 L154.156,376.428 C154.161,376.198 154.086,375.973 153.944,375.791 L148.631,368.994 L159.186,362.677 C159.835,362.289 159.835,361.349 159.186,360.961 L149.093,354.921 L159.186,348.881 C159.835,348.493 159.835,347.553 159.186,347.165 L149.093,341.125 L159.186,335.085 C159.835,334.697 159.835,333.757 159.186,333.368 L148.663,327.071 L153.676,321.072 C153.827,320.892 153.909,320.665 153.909,320.43 L153.909,272.143 z"
+         id="path154" />
+    </clipPath>
+    <filter
+       id="Shadow_18">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur157" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset159" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood161" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite163" />
+    </filter>
+    <clipPath
+       id="Clip_19">
+      <path
+         d="M140.83,175.637 L164.173,175.637 L164.173,322.819 L140.83,322.819 z M157.227,183.637 L147.775,183.637 C147.253,183.637 146.83,186.9 146.83,190.925 L146.83,307.531 C146.83,311.556 147.253,314.819 147.775,314.819 L157.227,314.819 C157.749,314.819 158.173,311.556 158.173,307.531 L158.173,190.925 C158.173,186.9 157.749,183.637 157.227,183.637 z"
+         id="path166" />
+    </clipPath>
+    <filter
+       id="Shadow_20">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur169" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset171" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood173" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite175" />
+    </filter>
+    <linearGradient
+       id="Gradient_5"
+       gradientUnits="userSpaceOnUse"
+       x1="146.83"
+       y1="249.228"
+       x2="158.173"
+       y2="249.228">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop178" />
+      <stop
+         offset="0.05"
+         stop-color="#686868"
+         id="stop180" />
+      <stop
+         offset="0.251"
+         stop-color="#CBCBCB"
+         id="stop182" />
+      <stop
+         offset="0.403"
+         stop-color="#DDDDDD"
+         id="stop184" />
+      <stop
+         offset="0.602"
+         stop-color="#DDDDDD"
+         id="stop186" />
+      <stop
+         offset="0.769"
+         stop-color="#C1C1C1"
+         id="stop188" />
+      <stop
+         offset="0.952"
+         stop-color="#7D7D7D"
+         id="stop190" />
+      <stop
+         offset="1"
+         stop-color="#383838"
+         id="stop192" />
+    </linearGradient>
+    <clipPath
+       id="Clip_21">
+      <path
+         d="M128.409,256.995 L177.409,256.995 L177.409,310.995 L128.409,310.995 z M167.909,264.995 L137.909,264.995 C136.007,264.995 134.409,266.09 134.409,267.551 L134.409,300.439 C134.409,301.9 136.007,302.995 137.909,302.995 L167.909,302.995 C169.811,302.995 171.409,301.9 171.409,300.439 L171.409,267.551 C171.409,266.09 169.811,264.995 167.909,264.995 z"
+         id="path195" />
+    </clipPath>
+    <filter
+       id="Shadow_22">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur198" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset200" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood202" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite204" />
+    </filter>
+    <linearGradient
+       id="Gradient_6"
+       gradientUnits="userSpaceOnUse"
+       x1="134.909"
+       y1="283.995"
+       x2="170.909"
+       y2="283.995">
+      <stop
+         offset="0"
+         stop-color="#686868"
+         id="stop207" />
+      <stop
+         offset="0.153"
+         stop-color="#CBCBCB"
+         id="stop209" />
+      <stop
+         offset="0.501"
+         stop-color="#DDDDDD"
+         id="stop211" />
+      <stop
+         offset="0.851"
+         stop-color="#C1C1C1"
+         id="stop213" />
+      <stop
+         offset="1"
+         stop-color="#7D7D7D"
+         id="stop215" />
+    </linearGradient>
+    <clipPath
+       id="Clip_23">
+      <path
+         d="M143.199,376.259 L162.803,376.259 L162.803,399.862 L143.199,399.862 z M153.001,384.259 C150.902,384.259 149.2,385.961 149.199,388.06 C149.2,390.16 150.902,391.862 153.001,391.862 C155.101,391.862 156.803,390.16 156.803,388.06 C156.803,385.961 155.101,384.259 153.001,384.259 z"
+         id="path218" />
+    </clipPath>
+    <filter
+       id="Shadow_24">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur221" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset223" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood225" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite227" />
+    </filter>
+    <clipPath
+       id="Clip_25">
+      <path
+         d="M241.071,328.989 L266.598,328.989 L266.598,415.839 L241.071,415.839 z M254.835,336.989 L252.835,336.989 L252.835,363.837 L247.509,367.451 C246.826,367.915 246.967,368.96 247.749,369.225 L256.486,372.19 L247.749,375.154 C246.845,375.461 246.845,376.741 247.749,377.048 L256.486,380.012 L247.749,382.976 C246.845,383.283 246.845,384.563 247.749,384.87 L256.486,387.834 L247.749,390.798 C246.981,391.059 246.827,392.079 247.484,392.555 L253.082,396.616 L253.082,407.839 L255.082,407.839 L255.082,396.105 C255.082,395.785 254.928,395.484 254.669,395.296 L250.223,392.071 L259.92,388.781 C260.825,388.474 260.825,387.194 259.92,386.887 L251.183,383.923 L259.92,380.959 C260.825,380.652 260.825,379.372 259.92,379.065 L251.183,376.101 L259.92,373.137 C260.825,372.829 260.825,371.55 259.92,371.242 L250.296,367.977 L254.396,365.195 C254.67,365.008 254.835,364.699 254.835,364.367 L254.835,336.989 z"
+         id="path230" />
+    </clipPath>
+    <filter
+       id="Shadow_26">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur233" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset235" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood237" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite239" />
+    </filter>
+    <clipPath
+       id="Clip_27">
+      <path
+         d="M241.756,217.312 L265.098,217.312 L265.098,364.493 L241.756,364.493 z M258.153,225.312 L248.701,225.312 C248.179,225.312 247.756,228.575 247.756,232.6 L247.756,349.206 C247.756,353.231 248.179,356.493 248.701,356.493 L258.153,356.493 C258.675,356.493 259.098,353.231 259.098,349.206 L259.098,232.6 C259.098,228.575 258.675,225.312 258.153,225.312 z"
+         id="path242" />
+    </clipPath>
+    <filter
+       id="Shadow_28">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur245" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset247" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood249" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite251" />
+    </filter>
+    <linearGradient
+       id="Gradient_7"
+       gradientUnits="userSpaceOnUse"
+       x1="247.756"
+       y1="290.903"
+       x2="259.098"
+       y2="290.903">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop254" />
+      <stop
+         offset="0.05"
+         stop-color="#686868"
+         id="stop256" />
+      <stop
+         offset="0.251"
+         stop-color="#CBCBCB"
+         id="stop258" />
+      <stop
+         offset="0.403"
+         stop-color="#DDDDDD"
+         id="stop260" />
+      <stop
+         offset="0.602"
+         stop-color="#DDDDDD"
+         id="stop262" />
+      <stop
+         offset="0.769"
+         stop-color="#C1C1C1"
+         id="stop264" />
+      <stop
+         offset="0.952"
+         stop-color="#7D7D7D"
+         id="stop266" />
+      <stop
+         offset="1"
+         stop-color="#383838"
+         id="stop268" />
+    </linearGradient>
+    <clipPath
+       id="Clip_29">
+      <path
+         d="M229.335,264.403 L278.335,264.403 L278.335,318.402 L229.335,318.402 z M268.835,272.403 L238.835,272.403 C236.933,272.403 235.335,273.498 235.335,274.958 L235.335,307.847 C235.335,309.307 236.933,310.402 238.835,310.402 L268.835,310.402 C270.736,310.402 272.335,309.307 272.335,307.847 L272.335,274.958 C272.335,273.498 270.736,272.403 268.835,272.403 z"
+         id="path271" />
+    </clipPath>
+    <filter
+       id="Shadow_30">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur274" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset276" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood278" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite280" />
+    </filter>
+    <linearGradient
+       id="Gradient_8"
+       gradientUnits="userSpaceOnUse"
+       x1="235.835"
+       y1="291.403"
+       x2="271.835"
+       y2="291.403">
+      <stop
+         offset="0"
+         stop-color="#686868"
+         id="stop283" />
+      <stop
+         offset="0.153"
+         stop-color="#CBCBCB"
+         id="stop285" />
+      <stop
+         offset="0.501"
+         stop-color="#DDDDDD"
+         id="stop287" />
+      <stop
+         offset="0.851"
+         stop-color="#C1C1C1"
+         id="stop289" />
+      <stop
+         offset="1"
+         stop-color="#7D7D7D"
+         id="stop291" />
+    </linearGradient>
+    <clipPath
+       id="Clip_31">
+      <path
+         d="M244.125,392.735 L263.729,392.735 L263.729,416.339 L244.125,416.339 z M253.927,400.735 C251.827,400.735 250.125,402.438 250.125,404.537 C250.125,406.637 251.827,408.339 253.927,408.339 C256.027,408.339 257.729,406.637 257.729,404.537 C257.729,402.438 256.027,400.735 253.927,400.735 z"
+         id="path294" />
+    </clipPath>
+    <filter
+       id="Shadow_32">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur297" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset299" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood301" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite303" />
+    </filter>
+    <clipPath
+       id="Clip_33">
+      <path
+         d="M430.792,219.229 L456.319,219.229 L456.319,352.469 L430.792,352.469 z M444.556,227.229 L442.556,227.229 L442.556,275.153 L437.025,281.773 C436.631,282.244 436.751,282.956 437.279,283.272 L447.372,289.312 L437.279,295.352 C436.63,295.74 436.63,296.68 437.279,297.068 L447.372,303.108 L437.279,309.148 C436.63,309.536 436.63,310.476 437.279,310.864 L447.372,316.905 L437.279,322.944 C436.762,323.253 436.634,323.945 437.004,324.418 L442.796,331.828 L442.53,344.427 L444.53,344.469 L444.803,331.513 C444.808,331.283 444.733,331.058 444.591,330.876 L439.277,324.079 L449.833,317.763 C450.482,317.374 450.482,316.435 449.833,316.046 L439.74,310.006 L449.833,303.966 C450.482,303.578 450.482,302.638 449.833,302.25 L439.74,296.21 L449.833,290.17 C450.482,289.782 450.482,288.842 449.833,288.454 L439.31,282.157 L444.323,276.157 C444.473,275.977 444.556,275.75 444.556,275.516 L444.556,227.229 z"
+         id="path306" />
+    </clipPath>
+    <filter
+       id="Shadow_34">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur309" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset311" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood313" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite315" />
+    </filter>
+    <clipPath
+       id="Clip_35">
+      <path
+         d="M431.477,130.723 L454.819,130.723 L454.819,277.905 L431.477,277.905 z M447.874,138.723 L438.422,138.723 C437.9,138.723 437.477,141.986 437.477,146.01 L437.477,262.617 C437.477,266.642 437.9,269.905 438.422,269.905 L447.874,269.905 C448.396,269.905 448.819,266.642 448.819,262.617 L448.819,146.011 C448.819,141.986 448.396,138.723 447.874,138.723 z"
+         id="path318" />
+    </clipPath>
+    <filter
+       id="Shadow_36">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur321" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset323" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood325" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite327" />
+    </filter>
+    <linearGradient
+       id="Gradient_9"
+       gradientUnits="userSpaceOnUse"
+       x1="437.477"
+       y1="204.314"
+       x2="448.819"
+       y2="204.314">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop330" />
+      <stop
+         offset="0.05"
+         stop-color="#686868"
+         id="stop332" />
+      <stop
+         offset="0.251"
+         stop-color="#CBCBCB"
+         id="stop334" />
+      <stop
+         offset="0.403"
+         stop-color="#DDDDDD"
+         id="stop336" />
+      <stop
+         offset="0.602"
+         stop-color="#DDDDDD"
+         id="stop338" />
+      <stop
+         offset="0.769"
+         stop-color="#C1C1C1"
+         id="stop340" />
+      <stop
+         offset="0.952"
+         stop-color="#7D7D7D"
+         id="stop342" />
+      <stop
+         offset="1"
+         stop-color="#383838"
+         id="stop344" />
+    </linearGradient>
+    <clipPath
+       id="Clip_37">
+      <path
+         d="M419.056,137.08 L468.056,137.08 L468.056,191.08 L419.056,191.08 z M458.556,145.08 L428.556,145.08 C426.654,145.08 425.056,146.176 425.056,147.636 L425.056,180.525 C425.056,181.985 426.654,183.08 428.556,183.08 L458.556,183.08 C460.457,183.08 462.056,181.985 462.056,180.525 L462.056,147.636 C462.056,146.176 460.457,145.08 458.556,145.08 z"
+         id="path347" />
+    </clipPath>
+    <filter
+       id="Shadow_38">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur350" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset352" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood354" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite356" />
+    </filter>
+    <linearGradient
+       id="Gradient_10"
+       gradientUnits="userSpaceOnUse"
+       x1="425.556"
+       y1="164.08"
+       x2="461.556"
+       y2="164.08">
+      <stop
+         offset="0"
+         stop-color="#686868"
+         id="stop359" />
+      <stop
+         offset="0.153"
+         stop-color="#CBCBCB"
+         id="stop361" />
+      <stop
+         offset="0.501"
+         stop-color="#DDDDDD"
+         id="stop363" />
+      <stop
+         offset="0.851"
+         stop-color="#C1C1C1"
+         id="stop365" />
+      <stop
+         offset="1"
+         stop-color="#7D7D7D"
+         id="stop367" />
+    </linearGradient>
+    <clipPath
+       id="Clip_39">
+      <path
+         d="M433.846,331.344 L453.45,331.344 L453.45,354.948 L433.846,354.948 z M443.648,339.344 C441.549,339.344 439.846,341.046 439.846,343.146 C439.846,345.246 441.549,346.948 443.648,346.948 C445.748,346.948 447.45,345.246 447.45,343.146 C447.45,341.046 445.748,339.344 443.648,339.344 z"
+         id="path370" />
+    </clipPath>
+    <filter
+       id="Shadow_40">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur373" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset375" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood377" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite379" />
+    </filter>
+    <clipPath
+       id="Clip_41">
+      <path
+         d="M543.848,115.353 L569.375,115.353 L569.375,202.204 L543.848,202.204 z M557.612,123.353 L555.612,123.353 L555.612,150.202 L550.286,153.816 C549.603,154.279 549.744,155.325 550.526,155.59 L559.263,158.554 L550.526,161.518 C549.622,161.825 549.622,163.105 550.526,163.412 L559.263,166.377 L550.526,169.341 C549.622,169.648 549.622,170.928 550.526,171.235 L559.263,174.199 L550.526,177.163 C549.758,177.424 549.604,178.443 550.261,178.92 L555.859,182.98 L555.859,194.204 L557.859,194.204 L557.859,182.47 C557.859,182.15 557.705,181.849 557.446,181.661 L553,178.436 L562.696,175.146 C563.602,174.839 563.602,173.559 562.696,173.252 L553.96,170.288 L562.696,167.324 C563.602,167.017 563.602,165.737 562.696,165.43 L553.96,162.465 L562.696,159.501 C563.602,159.194 563.602,157.914 562.696,157.607 L553.073,154.342 L557.173,151.559 C557.447,151.373 557.612,151.063 557.612,150.732 L557.612,123.353 z"
+         id="path382" />
+    </clipPath>
+    <filter
+       id="Shadow_42">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur385" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset387" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood389" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite391" />
+    </filter>
+    <clipPath
+       id="Clip_43">
+      <path
+         d="M544.533,3.676 L567.875,3.676 L567.875,150.858 L544.533,150.858 z M560.93,11.676 L551.478,11.676 C550.956,11.676 550.533,14.939 550.533,18.964 L550.533,135.57 C550.533,139.595 550.956,142.858 551.478,142.858 L560.93,142.858 C561.452,142.858 561.875,139.595 561.875,135.57 L561.875,18.964 C561.875,14.939 561.452,11.676 560.93,11.676 z"
+         id="path394" />
+    </clipPath>
+    <filter
+       id="Shadow_44">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur397" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset399" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood401" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite403" />
+    </filter>
+    <linearGradient
+       id="Gradient_11"
+       gradientUnits="userSpaceOnUse"
+       x1="550.533"
+       y1="77.267"
+       x2="561.875"
+       y2="77.267">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         id="stop406" />
+      <stop
+         offset="0.05"
+         stop-color="#686868"
+         id="stop408" />
+      <stop
+         offset="0.251"
+         stop-color="#CBCBCB"
+         id="stop410" />
+      <stop
+         offset="0.403"
+         stop-color="#DDDDDD"
+         id="stop412" />
+      <stop
+         offset="0.602"
+         stop-color="#DDDDDD"
+         id="stop414" />
+      <stop
+         offset="0.769"
+         stop-color="#C1C1C1"
+         id="stop416" />
+      <stop
+         offset="0.952"
+         stop-color="#7D7D7D"
+         id="stop418" />
+      <stop
+         offset="1"
+         stop-color="#383838"
+         id="stop420" />
+    </linearGradient>
+    <clipPath
+       id="Clip_45">
+      <path
+         d="M532.112,50.767 L581.112,50.767 L581.112,104.767 L532.112,104.767 z M571.612,58.767 L541.612,58.767 C539.71,58.767 538.112,59.863 538.112,61.323 L538.112,94.212 C538.112,95.672 539.71,96.767 541.612,96.767 L571.612,96.767 C573.513,96.767 575.112,95.672 575.112,94.212 L575.112,61.323 C575.112,59.863 573.513,58.767 571.612,58.767 z"
+         id="path423" />
+    </clipPath>
+    <filter
+       id="Shadow_46">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur426" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset428" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood430" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite432" />
+    </filter>
+    <linearGradient
+       id="Gradient_12"
+       gradientUnits="userSpaceOnUse"
+       x1="538.612"
+       y1="77.767"
+       x2="574.612"
+       y2="77.767">
+      <stop
+         offset="0"
+         stop-color="#686868"
+         id="stop435" />
+      <stop
+         offset="0.153"
+         stop-color="#CBCBCB"
+         id="stop437" />
+      <stop
+         offset="0.501"
+         stop-color="#DDDDDD"
+         id="stop439" />
+      <stop
+         offset="0.851"
+         stop-color="#C1C1C1"
+         id="stop441" />
+      <stop
+         offset="1"
+         stop-color="#7D7D7D"
+         id="stop443" />
+    </linearGradient>
+    <clipPath
+       id="Clip_47">
+      <path
+         d="M547.112,182.676 L566.715,182.676 L566.715,206.28 L547.112,206.28 z M556.913,190.676 C554.814,190.676 553.112,192.379 553.112,194.478 C553.112,196.578 554.814,198.28 556.913,198.28 C559.013,198.28 560.715,196.578 560.715,194.478 C560.715,192.379 559.013,190.676 556.913,190.676 z"
+         id="path446" />
+    </clipPath>
+    <filter
+       id="Shadow_48">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2.5"
+         id="feGaussianBlur449" />
+      <feOffset
+         dx="0"
+         dy="2"
+         result="offsetblur"
+         id="feOffset451" />
+      <feFlood
+         flood-color="#000000"
+         id="feFlood453" />
+      <feComposite
+         in2="offsetblur"
+         operator="in"
+         id="feComposite455" />
+    </filter>
+  </defs>
+  <g
+     id="Layer_1">
+    <g
+       id="g492">
+      <g
+         id="g464">
+        <path
+           d="M331.5,363.031 L331.5,378.488 C331.5,378.911 331.234,379.288 330.836,379.43 L328.195,380.373 L336.858,381.92 C337.957,382.116 337.957,383.692 336.858,383.889 L330.006,385.112 L336.858,386.336 C337.957,386.532 337.957,388.109 336.858,388.305 L330.006,389.529 L336.858,390.752 C337.957,390.949 337.957,392.525 336.858,392.721 L328.04,394.296 L331.122,395.472 C331.508,395.62 331.764,395.99 331.765,396.403 L331.799,406.232 L329.799,406.239 L329.768,397.096 L323.961,394.879 C323.014,394.518 323.144,393.139 324.142,392.961 L330.994,391.737 L324.142,390.513 C323.043,390.317 323.043,388.741 324.142,388.544 L330.994,387.32 L324.142,386.097 C323.043,385.901 323.043,384.324 324.142,384.128 L330.994,382.904 L324.142,381.681 C323.132,381.5 323.016,380.099 323.981,379.754 L329.5,377.783 L329.5,363.031 L331.5,363.031 z"
+           clip-path="url(#Clip_1)"
+           filter="url(#Shadow_2)"
+           fill="rgba(0,0,0,0.75)"
+           id="path460" />
+        <path
+           d="M330.799,406.235 L330.765,396.407 L324.317,393.945 L336.683,391.737 L324.317,389.529 L336.683,387.321 L324.317,385.112 L336.683,382.904 L324.317,380.696 L330.5,378.488 L330.5,363.031"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="2"
+           stroke-linejoin="round"
+           id="path462" />
+      </g>
+      <g
+         id="g470">
+        <path
+           d="M334.819,239.619 C335.341,239.619 335.764,242.882 335.764,246.907 L335.764,363.513 C335.764,367.538 335.341,370.801 334.819,370.801 L325.366,370.801 C324.844,370.801 324.421,367.538 324.421,363.513 L324.421,246.907 C324.421,242.882 324.844,239.619 325.366,239.619 L334.819,239.619 z"
+           clip-path="url(#Clip_3)"
+           filter="url(#Shadow_4)"
+           fill="rgba(0,0,0,0.75)"
+           id="path466" />
+        <path
+           d="M325.366,239.619 L334.819,239.619 C335.341,239.619 335.764,242.882 335.764,246.907 L335.764,363.513 C335.764,367.538 335.341,370.801 334.819,370.801 L325.366,370.801 C324.844,370.801 324.421,367.538 324.421,363.513 L324.421,246.907 C324.421,242.882 324.844,239.619 325.366,239.619 z"
+           fill="url(#Gradient_1)"
+           id="path468" />
+      </g>
+      <g
+         id="g478">
+        <path
+           d="M330.592,401.735 C332.692,401.735 334.394,403.438 334.394,405.537 C334.394,407.637 332.692,409.339 330.592,409.339 C328.493,409.339 326.791,407.637 326.79,405.537 C326.791,403.438 328.493,401.735 330.592,401.735 z"
+           clip-path="url(#Clip_5)"
+           filter="url(#Shadow_6)"
+           fill="rgba(0,0,0,0.75)"
+           id="path472" />
+        <path
+           d="M330.592,407.839 C329.321,407.839 328.291,406.809 328.291,405.537 C328.291,404.266 329.321,403.235 330.592,403.235 C331.864,403.235 332.894,404.266 332.894,405.537 C332.894,406.809 331.864,407.839 330.592,407.839 z"
+           fill="#000000"
+           id="path474" />
+        <path
+           d="M330.592,407.839 C329.321,407.839 328.291,406.809 328.291,405.537 C328.291,404.266 329.321,403.235 330.592,403.235 C331.864,403.235 332.894,404.266 332.894,405.537 C332.894,406.809 331.864,407.839 330.592,407.839 z"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="3"
+           id="path476" />
+      </g>
+      <g
+         id="g490">
+        <g
+           id="g486">
+          <path
+             d="M345.5,244.71 C347.402,244.71 349,245.805 349,247.266 L349,280.154 C349,281.615 347.402,282.71 345.5,282.71 L315.5,282.71 C313.598,282.71 312,281.615 312,280.154 L312,247.266 C312,245.805 313.598,244.71 315.5,244.71 L345.5,244.71 z"
+             clip-path="url(#Clip_7)"
+             filter="url(#Shadow_8)"
+             fill="rgba(0,0,0,0.75)"
+             id="path480" />
+          <path
+             d="M315.5,245.21 L345.5,245.21 C347.157,245.21 348.5,246.13 348.5,247.266 L348.5,280.154 C348.5,281.29 347.157,282.21 345.5,282.21 L315.5,282.21 C313.843,282.21 312.5,281.29 312.5,280.154 L312.5,247.266 C312.5,246.13 313.843,245.21 315.5,245.21 z"
+             fill="url(#Gradient_2)"
+             id="path482" />
+          <path
+             d="M315.5,245.21 L345.5,245.21 C347.157,245.21 348.5,246.13 348.5,247.266 L348.5,280.154 C348.5,281.29 347.157,282.21 345.5,282.21 L315.5,282.21 C313.843,282.21 312.5,281.29 312.5,280.154 L312.5,247.266 C312.5,246.13 313.843,245.21 315.5,245.21 z"
+             fill-opacity="0"
+             stroke="#515151"
+             stroke-width="1"
+             id="path484" />
+        </g>
+        <path
+           d="M315,244.71 L345,244.71 C346.657,244.71 348,245.63 348,246.766 L348,279.654 C348,280.79 346.657,281.71 345,281.71 L315,281.71 C313.343,281.71 312,280.79 312,279.654 L312,246.766 C312,245.63 313.343,244.71 315,244.71 z"
+           fill="#0433FF"
+           fill-opacity="0.288"
+           id="path488" />
+      </g>
+    </g>
+    <g
+       id="g530">
+      <path
+         d="M23.192,408.119 L625.808,408.119"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         stroke-linecap="square"
+         id="path494" />
+      <path
+         d="M47.194,408.119 L23.192,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path496" />
+      <path
+         d="M83.196,408.119 L59.194,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path498" />
+      <path
+         d="M119.199,408.119 L95.197,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path500" />
+      <path
+         d="M155.202,408.119 L131.2,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path502" />
+      <path
+         d="M191.205,408.119 L167.203,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path504" />
+      <path
+         d="M227.208,408.119 L203.206,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path506" />
+      <path
+         d="M263.21,408.119 L239.208,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path508" />
+      <path
+         d="M299.213,408.119 L275.211,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path510" />
+      <path
+         d="M335.216,408.119 L311.214,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path512" />
+      <path
+         d="M371.219,408.119 L347.217,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path514" />
+      <path
+         d="M407.221,408.119 L383.22,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path516" />
+      <path
+         d="M443.224,408.119 L419.222,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path518" />
+      <path
+         d="M481.813,408.119 L457.811,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path520" />
+      <path
+         d="M517.816,408.119 L493.814,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path522" />
+      <path
+         d="M553.819,408.119 L529.817,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path524" />
+      <path
+         d="M589.821,408.119 L565.819,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path526" />
+      <path
+         d="M625.808,408.119 L601.806,420.824"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="3"
+         id="path528" />
+    </g>
+    <g
+       id="g640">
+      <g
+         id="g566">
+        <g
+           id="g556">
+          <g
+             id="g536">
+            <path
+               d="M52.983,336.989 L52.983,364.367 C52.983,364.699 52.819,365.008 52.545,365.195 L48.444,367.977 L58.068,371.242 C58.973,371.55 58.973,372.829 58.068,373.137 L49.332,376.101 L58.068,379.065 C58.973,379.372 58.973,380.652 58.068,380.959 L49.332,383.923 L58.068,386.887 C58.973,387.194 58.973,388.474 58.068,388.781 L48.372,392.071 L52.818,395.296 C53.077,395.484 53.231,395.785 53.231,396.105 L53.231,407.839 L51.231,407.839 L51.231,396.616 L45.632,392.555 C44.976,392.079 45.13,391.059 45.898,390.798 L54.634,387.834 L45.898,384.87 C44.993,384.563 44.993,383.283 45.898,382.976 L54.634,380.012 L45.898,377.048 C44.993,376.741 44.993,375.461 45.898,375.154 L54.634,372.19 L45.898,369.225 C45.116,368.96 44.975,367.915 45.658,367.451 L50.983,363.837 L50.983,336.989 L52.983,336.989 z"
+               clip-path="url(#Clip_9)"
+               filter="url(#Shadow_10)"
+               fill="rgba(0,0,0,0.75)"
+               id="path532" />
+            <path
+               d="M52.231,407.839 L52.231,396.106 L46.22,391.746 L57.747,387.834 L46.22,383.923 L57.747,380.012 L46.22,376.101 L57.747,372.19 L46.22,368.278 L51.983,364.367 L51.983,336.989"
+               fill-opacity="0"
+               stroke="#000000"
+               stroke-width="2"
+               stroke-linejoin="round"
+               id="path534" />
+          </g>
+          <g
+             id="g542">
+            <path
+               d="M56.302,225.312 C56.824,225.312 57.247,228.575 57.247,232.6 L57.247,349.206 C57.247,353.231 56.824,356.493 56.302,356.493 L46.85,356.493 C46.328,356.493 45.905,353.231 45.905,349.206 L45.904,232.6 C45.905,228.575 46.328,225.312 46.85,225.312 L56.302,225.312 z"
+               clip-path="url(#Clip_11)"
+               filter="url(#Shadow_12)"
+               fill="rgba(0,0,0,0.75)"
+               id="path538" />
+            <path
+               d="M46.85,225.312 L56.302,225.312 C56.824,225.312 57.247,228.575 57.247,232.6 L57.247,349.206 C57.247,353.231 56.824,356.493 56.302,356.493 L46.85,356.493 C46.328,356.493 45.905,353.231 45.905,349.206 L45.905,232.6 C45.905,228.575 46.328,225.312 46.85,225.312 z"
+               fill="url(#Gradient_3)"
+               id="path540" />
+          </g>
+          <g
+             id="g554">
+            <g
+               id="g550">
+              <path
+                 d="M66.983,272.403 C68.885,272.403 70.483,273.498 70.483,274.958 L70.483,307.847 C70.483,309.307 68.885,310.402 66.983,310.402 L36.983,310.402 C35.082,310.402 33.483,309.307 33.483,307.847 L33.483,274.958 C33.483,273.498 35.082,272.403 36.983,272.403 L66.983,272.403 z"
+                 clip-path="url(#Clip_13)"
+                 filter="url(#Shadow_14)"
+                 fill="rgba(0,0,0,0.75)"
+                 id="path544" />
+              <path
+                 d="M36.983,272.903 L66.983,272.903 C68.64,272.903 69.983,273.823 69.983,274.958 L69.983,307.847 C69.983,308.982 68.64,309.902 66.983,309.902 L36.983,309.902 C35.326,309.902 33.983,308.982 33.983,307.847 L33.983,274.958 C33.983,273.823 35.326,272.903 36.983,272.903 z"
+                 fill="url(#Gradient_4)"
+                 id="path546" />
+              <path
+                 d="M36.983,272.903 L66.983,272.903 C68.64,272.903 69.983,273.823 69.983,274.958 L69.983,307.847 C69.983,308.982 68.64,309.902 66.983,309.902 L36.983,309.902 C35.326,309.902 33.983,308.982 33.983,307.847 L33.983,274.958 C33.983,273.823 35.326,272.903 36.983,272.903 z"
+                 fill-opacity="0"
+                 stroke="#515151"
+                 stroke-width="1"
+                 id="path548" />
+            </g>
+            <path
+               d="M36.483,272.403 L66.483,272.403 C68.14,272.403 69.483,273.323 69.483,274.458 L69.483,307.347 C69.483,308.482 68.14,309.402 66.483,309.402 L36.483,309.402 C34.826,309.402 33.483,308.482 33.483,307.347 L33.483,274.458 C33.483,273.323 34.826,272.403 36.483,272.403 z"
+               fill="#0433FF"
+               fill-opacity="0.288"
+               id="path552" />
+          </g>
+        </g>
+        <g
+           id="g564">
+          <path
+             d="M52.076,400.735 C54.175,400.735 55.878,402.438 55.878,404.537 C55.878,406.637 54.175,408.339 52.076,408.339 C49.976,408.339 48.274,406.637 48.274,404.537 C48.274,402.438 49.976,400.735 52.076,400.735 z"
+             clip-path="url(#Clip_15)"
+             filter="url(#Shadow_16)"
+             fill="rgba(0,0,0,0.75)"
+             id="path558" />
+          <path
+             d="M52.076,406.839 C50.804,406.839 49.774,405.809 49.774,404.537 C49.774,403.266 50.804,402.235 52.076,402.235 C53.347,402.235 54.378,403.266 54.378,404.537 C54.378,405.809 53.347,406.839 52.076,406.839 z"
+             fill="#000000"
+             id="path560" />
+          <path
+             d="M52.076,406.839 C50.804,406.839 49.774,405.809 49.774,404.537 C49.774,403.266 50.804,402.235 52.076,402.235 C53.347,402.235 54.378,403.266 54.378,404.537 C54.378,405.809 53.347,406.839 52.076,406.839 z"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="3"
+             id="path562" />
+        </g>
+      </g>
+      <g
+         id="g602">
+        <g
+           id="g592">
+          <g
+             id="g572">
+            <path
+               d="M153.909,272.143 L153.909,320.43 C153.909,320.665 153.827,320.892 153.676,321.072 L148.663,327.071 L159.186,333.368 C159.835,333.757 159.835,334.697 159.186,335.085 L149.093,341.125 L159.186,347.165 C159.835,347.553 159.835,348.493 159.186,348.881 L149.093,354.921 L159.186,360.961 C159.835,361.349 159.835,362.289 159.186,362.677 L148.631,368.994 L153.944,375.791 C154.086,375.973 154.161,376.198 154.156,376.428 L153.883,389.384 L151.883,389.341 L152.149,376.742 L146.357,369.333 C145.987,368.859 146.116,368.168 146.632,367.859 L156.725,361.819 L146.632,355.779 C145.983,355.391 145.983,354.451 146.632,354.063 L156.725,348.023 L146.632,341.983 C145.983,341.595 145.983,340.655 146.632,340.267 L156.725,334.227 L146.632,328.186 C146.104,327.871 145.984,327.159 146.378,326.687 L151.909,320.068 L151.909,272.143 L153.909,272.143 z"
+               clip-path="url(#Clip_17)"
+               filter="url(#Shadow_18)"
+               fill="rgba(0,0,0,0.75)"
+               id="path568" />
+            <path
+               d="M152.883,389.362 L153.156,376.407 L147.145,368.717 L158.673,361.819 L147.145,354.921 L158.673,348.023 L147.145,341.125 L158.673,334.227 L147.145,327.328 L152.909,320.43 L152.909,272.143"
+               fill-opacity="0"
+               stroke="#000000"
+               stroke-width="2"
+               stroke-linejoin="round"
+               id="path570" />
+          </g>
+          <g
+             id="g578">
+            <path
+               d="M157.227,183.637 C157.749,183.637 158.173,186.9 158.173,190.925 L158.173,307.531 C158.173,311.556 157.749,314.819 157.227,314.819 L147.775,314.819 C147.253,314.819 146.83,311.556 146.83,307.531 L146.83,190.925 C146.83,186.9 147.253,183.637 147.775,183.637 L157.227,183.637 z"
+               clip-path="url(#Clip_19)"
+               filter="url(#Shadow_20)"
+               fill="rgba(0,0,0,0.75)"
+               id="path574" />
+            <path
+               d="M147.775,183.637 L157.227,183.637 C157.749,183.637 158.173,186.9 158.173,190.925 L158.173,307.531 C158.173,311.556 157.749,314.819 157.227,314.819 L147.775,314.819 C147.253,314.819 146.83,311.556 146.83,307.531 L146.83,190.925 C146.83,186.9 147.253,183.637 147.775,183.637 z"
+               fill="url(#Gradient_5)"
+               id="path576" />
+          </g>
+          <g
+             id="g590">
+            <g
+               id="g586">
+              <path
+                 d="M167.909,264.995 C169.811,264.995 171.409,266.09 171.409,267.551 L171.409,300.439 C171.409,301.9 169.811,302.995 167.909,302.995 L137.909,302.995 C136.007,302.995 134.409,301.9 134.409,300.439 L134.409,267.551 C134.409,266.09 136.007,264.995 137.909,264.995 L167.909,264.995 z"
+                 clip-path="url(#Clip_21)"
+                 filter="url(#Shadow_22)"
+                 fill="rgba(0,0,0,0.75)"
+                 id="path580" />
+              <path
+                 d="M137.909,265.495 L167.909,265.495 C169.566,265.495 170.909,266.415 170.909,267.551 L170.909,300.439 C170.909,301.575 169.566,302.495 167.909,302.495 L137.909,302.495 C136.252,302.495 134.909,301.575 134.909,300.439 L134.909,267.551 C134.909,266.415 136.252,265.495 137.909,265.495 z"
+                 fill="url(#Gradient_6)"
+                 id="path582" />
+              <path
+                 d="M137.909,265.495 L167.909,265.495 C169.566,265.495 170.909,266.415 170.909,267.551 L170.909,300.439 C170.909,301.575 169.566,302.495 167.909,302.495 L137.909,302.495 C136.252,302.495 134.909,301.575 134.909,300.439 L134.909,267.551 C134.909,266.415 136.252,265.495 137.909,265.495 z"
+                 fill-opacity="0"
+                 stroke="#515151"
+                 stroke-width="1"
+                 id="path584" />
+            </g>
+            <path
+               d="M137.409,264.995 L167.409,264.995 C169.066,264.995 170.409,265.915 170.409,267.051 L170.409,299.939 C170.409,301.075 169.066,301.995 167.409,301.995 L137.409,301.995 C135.752,301.995 134.409,301.075 134.409,299.939 L134.409,267.051 C134.409,265.915 135.752,264.995 137.409,264.995 z"
+               fill="#0433FF"
+               fill-opacity="0.288"
+               id="path588" />
+          </g>
+        </g>
+        <g
+           id="g600">
+          <path
+             d="M153.001,384.259 C155.101,384.259 156.803,385.961 156.803,388.06 C156.803,390.16 155.101,391.862 153.001,391.862 C150.902,391.862 149.2,390.16 149.199,388.06 C149.2,385.961 150.902,384.259 153.001,384.259 z"
+             clip-path="url(#Clip_23)"
+             filter="url(#Shadow_24)"
+             fill="rgba(0,0,0,0.75)"
+             id="path594" />
+          <path
+             d="M153.001,390.362 C151.73,390.362 150.7,389.332 150.7,388.061 C150.7,386.789 151.73,385.759 153.001,385.759 C154.273,385.759 155.303,386.789 155.303,388.061 C155.303,389.332 154.273,390.362 153.001,390.362 z"
+             fill="#000000"
+             id="path596" />
+          <path
+             d="M153.001,390.362 C151.73,390.362 150.7,389.332 150.7,388.061 C150.7,386.789 151.73,385.759 153.001,385.759 C154.273,385.759 155.303,386.789 155.303,388.061 C155.303,389.332 154.273,390.362 153.001,390.362 z"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="3"
+             id="path598" />
+        </g>
+      </g>
+      <g
+         id="g638">
+        <g
+           id="g628">
+          <g
+             id="g608">
+            <path
+               d="M254.835,336.989 L254.835,364.367 C254.835,364.699 254.67,365.008 254.396,365.195 L250.296,367.977 L259.92,371.242 C260.825,371.55 260.825,372.829 259.92,373.137 L251.183,376.101 L259.92,379.065 C260.825,379.372 260.825,380.652 259.92,380.959 L251.183,383.923 L259.92,386.887 C260.825,387.194 260.825,388.474 259.92,388.781 L250.223,392.071 L254.669,395.296 C254.928,395.484 255.082,395.785 255.082,396.105 L255.082,407.839 L253.082,407.839 L253.082,396.616 L247.484,392.555 C246.827,392.079 246.981,391.059 247.749,390.798 L256.486,387.834 L247.749,384.87 C246.845,384.563 246.845,383.283 247.749,382.976 L256.486,380.012 L247.749,377.048 C246.845,376.741 246.845,375.461 247.749,375.154 L256.486,372.19 L247.749,369.225 C246.967,368.96 246.826,367.915 247.509,367.451 L252.835,363.837 L252.835,336.989 L254.835,336.989 z"
+               clip-path="url(#Clip_25)"
+               filter="url(#Shadow_26)"
+               fill="rgba(0,0,0,0.75)"
+               id="path604" />
+            <path
+               d="M254.082,407.839 L254.082,396.106 L248.071,391.746 L259.598,387.834 L248.071,383.923 L259.598,380.012 L248.071,376.101 L259.598,372.19 L248.071,368.278 L253.835,364.367 L253.835,336.989"
+               fill-opacity="0"
+               stroke="#000000"
+               stroke-width="2"
+               stroke-linejoin="round"
+               id="path606" />
+          </g>
+          <g
+             id="g614">
+            <path
+               d="M258.153,225.312 C258.675,225.312 259.098,228.575 259.098,232.6 L259.098,349.206 C259.098,353.231 258.675,356.493 258.153,356.493 L248.701,356.493 C248.179,356.493 247.756,353.231 247.756,349.206 L247.756,232.6 C247.756,228.575 248.179,225.312 248.701,225.312 L258.153,225.312 z"
+               clip-path="url(#Clip_27)"
+               filter="url(#Shadow_28)"
+               fill="rgba(0,0,0,0.75)"
+               id="path610" />
+            <path
+               d="M248.701,225.312 L258.153,225.312 C258.675,225.312 259.098,228.575 259.098,232.6 L259.098,349.206 C259.098,353.231 258.675,356.493 258.153,356.493 L248.701,356.493 C248.179,356.493 247.756,353.231 247.756,349.206 L247.756,232.6 C247.756,228.575 248.179,225.312 248.701,225.312 z"
+               fill="url(#Gradient_7)"
+               id="path612" />
+          </g>
+          <g
+             id="g626">
+            <g
+               id="g622">
+              <path
+                 d="M268.835,272.403 C270.736,272.403 272.335,273.498 272.335,274.958 L272.335,307.847 C272.335,309.307 270.736,310.402 268.835,310.402 L238.835,310.402 C236.933,310.402 235.335,309.307 235.335,307.847 L235.335,274.958 C235.335,273.498 236.933,272.403 238.835,272.403 L268.835,272.403 z"
+                 clip-path="url(#Clip_29)"
+                 filter="url(#Shadow_30)"
+                 fill="rgba(0,0,0,0.75)"
+                 id="path616" />
+              <path
+                 d="M238.835,272.903 L268.835,272.903 C270.491,272.903 271.835,273.823 271.835,274.958 L271.835,307.847 C271.835,308.982 270.491,309.902 268.835,309.902 L238.835,309.902 C237.178,309.902 235.835,308.982 235.835,307.847 L235.835,274.958 C235.835,273.823 237.178,272.903 238.835,272.903 z"
+                 fill="url(#Gradient_8)"
+                 id="path618" />
+              <path
+                 d="M238.835,272.903 L268.835,272.903 C270.491,272.903 271.835,273.823 271.835,274.958 L271.835,307.847 C271.835,308.982 270.491,309.902 268.835,309.902 L238.835,309.902 C237.178,309.902 235.835,308.982 235.835,307.847 L235.835,274.958 C235.835,273.823 237.178,272.903 238.835,272.903 z"
+                 fill-opacity="0"
+                 stroke="#515151"
+                 stroke-width="1"
+                 id="path620" />
+            </g>
+            <path
+               d="M238.335,272.403 L268.335,272.403 C269.991,272.403 271.335,273.323 271.335,274.458 L271.335,307.347 C271.335,308.482 269.991,309.402 268.335,309.402 L238.335,309.402 C236.678,309.402 235.335,308.482 235.335,307.347 L235.335,274.458 C235.335,273.323 236.678,272.403 238.335,272.403 z"
+               fill="#0433FF"
+               fill-opacity="0.288"
+               id="path624" />
+          </g>
+        </g>
+        <g
+           id="g636">
+          <path
+             d="M253.927,400.735 C256.027,400.735 257.729,402.438 257.729,404.537 C257.729,406.637 256.027,408.339 253.927,408.339 C251.827,408.339 250.125,406.637 250.125,404.537 C250.125,402.438 251.827,400.735 253.927,400.735 z"
+             clip-path="url(#Clip_31)"
+             filter="url(#Shadow_32)"
+             fill="rgba(0,0,0,0.75)"
+             id="path630" />
+          <path
+             d="M253.927,406.839 C252.656,406.839 251.625,405.809 251.625,404.537 C251.625,403.266 252.656,402.235 253.927,402.235 C255.198,402.235 256.229,403.266 256.229,404.537 C256.229,405.809 255.198,406.839 253.927,406.839 z"
+             fill="#000000"
+             id="path632" />
+          <path
+             d="M253.927,406.839 C252.656,406.839 251.625,405.809 251.625,404.537 C251.625,403.266 252.656,402.235 253.927,402.235 C255.198,402.235 256.229,403.266 256.229,404.537 C256.229,405.809 255.198,406.839 253.927,406.839 z"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="3"
+             id="path634" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g674">
+      <g
+         id="g646">
+        <path
+           d="M444.556,227.229 L444.556,275.516 C444.556,275.75 444.473,275.977 444.323,276.157 L439.31,282.157 L449.833,288.454 C450.482,288.842 450.482,289.782 449.833,290.17 L439.74,296.21 L449.833,302.25 C450.482,302.638 450.482,303.578 449.833,303.966 L439.74,310.006 L449.833,316.046 C450.482,316.435 450.482,317.374 449.833,317.763 L439.277,324.079 L444.591,330.876 C444.733,331.058 444.808,331.283 444.803,331.513 L444.53,344.469 L442.53,344.427 L442.796,331.828 L437.004,324.418 C436.634,323.945 436.762,323.253 437.279,322.944 L447.372,316.905 L437.279,310.864 C436.63,310.476 436.63,309.536 437.279,309.148 L447.372,303.108 L437.279,297.068 C436.63,296.68 436.63,295.74 437.279,295.352 L447.372,289.312 L437.279,283.272 C436.751,282.956 436.631,282.244 437.025,281.773 L442.556,275.153 L442.556,227.229 L444.556,227.229 z"
+           clip-path="url(#Clip_33)"
+           filter="url(#Shadow_34)"
+           fill="rgba(0,0,0,0.75)"
+           id="path642" />
+        <path
+           d="M443.53,344.448 L443.803,331.492 L437.792,323.803 L449.319,316.905 L437.792,310.006 L449.319,303.108 L437.792,296.21 L449.319,289.312 L437.792,282.414 L443.556,275.516 L443.556,227.229"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="2"
+           stroke-linejoin="round"
+           id="path644" />
+      </g>
+      <g
+         id="g652">
+        <path
+           d="M447.874,138.723 C448.396,138.723 448.819,141.986 448.819,146.011 L448.819,262.617 C448.819,266.642 448.396,269.905 447.874,269.905 L438.422,269.905 C437.9,269.905 437.477,266.642 437.477,262.617 L437.477,146.01 C437.477,141.986 437.9,138.723 438.422,138.723 L447.874,138.723 z"
+           clip-path="url(#Clip_35)"
+           filter="url(#Shadow_36)"
+           fill="rgba(0,0,0,0.75)"
+           id="path648" />
+        <path
+           d="M438.422,138.723 L447.874,138.723 C448.396,138.723 448.819,141.986 448.819,146.011 L448.819,262.617 C448.819,266.642 448.396,269.905 447.874,269.905 L438.422,269.905 C437.9,269.905 437.477,266.642 437.477,262.617 L437.477,146.011 C437.477,141.986 437.9,138.723 438.422,138.723 z"
+           fill="url(#Gradient_9)"
+           id="path650" />
+      </g>
+      <g
+         id="g664">
+        <g
+           id="g660">
+          <path
+             d="M458.556,145.08 C460.457,145.08 462.056,146.176 462.056,147.636 L462.056,180.525 C462.056,181.985 460.457,183.08 458.556,183.08 L428.556,183.08 C426.654,183.08 425.056,181.985 425.056,180.525 L425.056,147.636 C425.056,146.176 426.654,145.08 428.556,145.08 L458.556,145.08 z"
+             clip-path="url(#Clip_37)"
+             filter="url(#Shadow_38)"
+             fill="rgba(0,0,0,0.75)"
+             id="path654" />
+          <path
+             d="M428.556,145.58 L458.556,145.58 C460.213,145.58 461.556,146.501 461.556,147.636 L461.556,180.525 C461.556,181.66 460.213,182.58 458.556,182.58 L428.556,182.58 C426.899,182.58 425.556,181.66 425.556,180.525 L425.556,147.636 C425.556,146.501 426.899,145.58 428.556,145.58 z"
+             fill="url(#Gradient_10)"
+             id="path656" />
+          <path
+             d="M428.556,145.58 L458.556,145.58 C460.213,145.58 461.556,146.501 461.556,147.636 L461.556,180.525 C461.556,181.66 460.213,182.58 458.556,182.58 L428.556,182.58 C426.899,182.58 425.556,181.66 425.556,180.525 L425.556,147.636 C425.556,146.501 426.899,145.58 428.556,145.58 z"
+             fill-opacity="0"
+             stroke="#515151"
+             stroke-width="1"
+             id="path658" />
+        </g>
+        <path
+           d="M428.056,145.08 L458.056,145.08 C459.713,145.08 461.056,146.001 461.056,147.136 L461.056,180.025 C461.056,181.16 459.713,182.08 458.056,182.08 L428.056,182.08 C426.399,182.08 425.056,181.16 425.056,180.025 L425.056,147.136 C425.056,146.001 426.399,145.08 428.056,145.08 z"
+           fill="#0433FF"
+           fill-opacity="0.288"
+           id="path662" />
+      </g>
+      <g
+         id="g672">
+        <path
+           d="M443.648,339.344 C445.748,339.344 447.45,341.046 447.45,343.146 C447.45,345.246 445.748,346.948 443.648,346.948 C441.549,346.948 439.846,345.246 439.846,343.146 C439.846,341.046 441.549,339.344 443.648,339.344 z"
+           clip-path="url(#Clip_39)"
+           filter="url(#Shadow_40)"
+           fill="rgba(0,0,0,0.75)"
+           id="path666" />
+        <path
+           d="M443.648,345.448 C442.377,345.448 441.346,344.417 441.346,343.146 C441.346,341.875 442.377,340.844 443.648,340.844 C444.92,340.844 445.95,341.875 445.95,343.146 C445.95,344.417 444.92,345.448 443.648,345.448 z"
+           fill="#000000"
+           id="path668" />
+        <path
+           d="M443.648,345.448 C442.377,345.448 441.346,344.417 441.346,343.146 C441.346,341.875 442.377,340.844 443.648,340.844 C444.92,340.844 445.95,341.875 445.95,343.146 C445.95,344.417 444.92,345.448 443.648,345.448 z"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="3"
+           id="path670" />
+      </g>
+    </g>
+    <g
+       id="g710">
+      <g
+         id="g700">
+        <g
+           id="g680">
+          <path
+             d="M557.612,123.353 L557.612,150.732 C557.612,151.063 557.447,151.373 557.173,151.559 L553.073,154.342 L562.696,157.607 C563.602,157.914 563.602,159.194 562.696,159.501 L553.96,162.465 L562.696,165.43 C563.602,165.737 563.602,167.017 562.696,167.324 L553.96,170.288 L562.696,173.252 C563.602,173.559 563.602,174.839 562.696,175.146 L553,178.436 L557.446,181.661 C557.705,181.849 557.859,182.15 557.859,182.47 L557.859,194.204 L555.859,194.204 L555.859,182.98 L550.261,178.92 C549.604,178.443 549.758,177.424 550.526,177.163 L559.263,174.199 L550.526,171.235 C549.622,170.928 549.622,169.648 550.526,169.341 L559.263,166.377 L550.526,163.412 C549.622,163.105 549.622,161.825 550.526,161.518 L559.263,158.554 L550.526,155.59 C549.744,155.325 549.603,154.279 550.286,153.816 L555.612,150.202 L555.612,123.353 L557.612,123.353 z"
+             clip-path="url(#Clip_41)"
+             filter="url(#Shadow_42)"
+             fill="rgba(0,0,0,0.75)"
+             id="path676" />
+          <path
+             d="M556.859,194.204 L556.859,182.47 L550.848,178.11 L562.375,174.199 L550.848,170.288 L562.375,166.377 L550.848,162.465 L562.375,158.554 L550.848,154.643 L556.612,150.732 L556.612,123.353"
+             fill-opacity="0"
+             stroke="#000000"
+             stroke-width="2"
+             stroke-linejoin="round"
+             id="path678" />
+        </g>
+        <g
+           id="g686">
+          <path
+             d="M560.93,11.676 C561.452,11.676 561.875,14.939 561.875,18.964 L561.875,135.57 C561.875,139.595 561.452,142.858 560.93,142.858 L551.478,142.858 C550.956,142.858 550.533,139.595 550.533,135.57 L550.533,18.964 C550.533,14.939 550.956,11.676 551.478,11.676 L560.93,11.676 z"
+             clip-path="url(#Clip_43)"
+             filter="url(#Shadow_44)"
+             fill="rgba(0,0,0,0.75)"
+             id="path682" />
+          <path
+             d="M551.478,11.676 L560.93,11.676 C561.452,11.676 561.875,14.939 561.875,18.964 L561.875,135.57 C561.875,139.595 561.452,142.858 560.93,142.858 L551.478,142.858 C550.956,142.858 550.533,139.595 550.533,135.57 L550.533,18.964 C550.533,14.939 550.956,11.676 551.478,11.676 z"
+             fill="url(#Gradient_11)"
+             id="path684" />
+        </g>
+        <g
+           id="g698">
+          <g
+             id="g694">
+            <path
+               d="M571.612,58.767 C573.513,58.767 575.112,59.863 575.112,61.323 L575.112,94.212 C575.112,95.672 573.513,96.767 571.612,96.767 L541.612,96.767 C539.71,96.767 538.112,95.672 538.112,94.212 L538.112,61.323 C538.112,59.863 539.71,58.767 541.612,58.767 L571.612,58.767 z"
+               clip-path="url(#Clip_45)"
+               filter="url(#Shadow_46)"
+               fill="rgba(0,0,0,0.75)"
+               id="path688" />
+            <path
+               d="M541.612,59.267 L571.612,59.267 C573.268,59.267 574.612,60.188 574.612,61.323 L574.612,94.212 C574.612,95.347 573.268,96.267 571.612,96.267 L541.612,96.267 C539.955,96.267 538.612,95.347 538.612,94.212 L538.612,61.323 C538.612,60.188 539.955,59.267 541.612,59.267 z"
+               fill="url(#Gradient_12)"
+               id="path690" />
+            <path
+               d="M541.612,59.267 L571.612,59.267 C573.268,59.267 574.612,60.188 574.612,61.323 L574.612,94.212 C574.612,95.347 573.268,96.267 571.612,96.267 L541.612,96.267 C539.955,96.267 538.612,95.347 538.612,94.212 L538.612,61.323 C538.612,60.188 539.955,59.267 541.612,59.267 z"
+               fill-opacity="0"
+               stroke="#515151"
+               stroke-width="1"
+               id="path692" />
+          </g>
+          <path
+             d="M541.112,58.767 L571.112,58.767 C572.768,58.767 574.112,59.688 574.112,60.823 L574.112,93.712 C574.112,94.847 572.768,95.767 571.112,95.767 L541.112,95.767 C539.455,95.767 538.112,94.847 538.112,93.712 L538.112,60.823 C538.112,59.688 539.455,58.767 541.112,58.767 z"
+             fill="#0433FF"
+             fill-opacity="0.288"
+             id="path696" />
+        </g>
+      </g>
+      <g
+         id="g708">
+        <path
+           d="M556.913,190.676 C559.013,190.676 560.715,192.379 560.715,194.478 C560.715,196.578 559.013,198.28 556.913,198.28 C554.814,198.28 553.112,196.578 553.112,194.478 C553.112,192.379 554.814,190.676 556.913,190.676 z"
+           clip-path="url(#Clip_47)"
+           filter="url(#Shadow_48)"
+           fill="rgba(0,0,0,0.75)"
+           id="path702" />
+        <path
+           d="M556.913,196.78 C555.642,196.78 554.612,195.75 554.612,194.478 C554.612,193.207 555.642,192.176 556.913,192.176 C558.185,192.176 559.215,193.207 559.215,194.478 C559.215,195.75 558.185,196.78 556.913,196.78 z"
+           fill="#000000"
+           id="path704" />
+        <path
+           d="M556.913,196.78 C555.642,196.78 554.612,195.75 554.612,194.478 C554.612,193.207 555.642,192.176 556.913,192.176 C558.185,192.176 559.215,193.207 559.215,194.478 C559.215,195.75 558.185,196.78 556.913,196.78 z"
+           fill-opacity="0"
+           stroke="#000000"
+           stroke-width="3"
+           id="path706" />
+      </g>
+    </g>
+  </g>
+</svg>
